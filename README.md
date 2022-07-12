@@ -1,2 +1,2 @@
 # 7project
- depo
+7project repo
